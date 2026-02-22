@@ -1,8 +1,10 @@
 **Personal Expense Tracker** (Python, CSV)
+
 A simple and beginner-friendly command-line Expense Tracker built using Python and CSV storage.
 This project helps users record daily expenses, view all transactions, and generate monthly summaries — all from the terminal.
 
 Features
+
 ✔ Add Expense
 Enter amount, category, and description
 Automatically saves to a CSV file
@@ -19,6 +21,7 @@ Data stored permanently in expenses.csv
 Beginner-friendly and easy to modify
 
 🛠 Tech Stack
+
 Python 3
 CSV Module
 File Handling (Read/Write)
@@ -32,6 +35,7 @@ Personal-Expense-Tracker/
 └── README.md         # Project documentation
 
 How to Run the Project
+
 1. Clone the repository
 git clone https://github.com/bablu12344567/Personal-Expense-Tracker.git
 
@@ -48,7 +52,8 @@ python expense.py
 4. Exit
 Enter your choice:
 
-📈 Future Improvements (Optional)
+📈 Future Improvements
+
 These are optional enhancements you can add later:
 Convert to GUI using Tkinter
 Add charts using Matplotlib
@@ -57,6 +62,7 @@ Add categories filter
 Build a web version using Flask
 
 👨‍💻 Author
+
 Prabhanjan Reddy
 Beginner Python Developer | Learning Full-Stack | Exploring Projects
 📧 Email: [reddyprabhanjanreddy@gmail.com]
