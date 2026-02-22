@@ -28,6 +28,7 @@ File Handling (Read/Write)
 Basic Data Structures
 
 **📂 Project Structure**
+
 Personal-Expense-Tracker/
 │
 ├── expense.py        # Main program
